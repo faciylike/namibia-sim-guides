@@ -59,3 +59,10 @@ layout: default
     *   行程紧张，想秒连网络的人。
     *   双卡党（保留国内号收短信+纳米比亚号上网）。
     **✈ [@esim1088](https://t.me/s/esim1088) 提供面向出境通信的 e
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Namibia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/namibia-data-plans)
